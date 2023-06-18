@@ -564,7 +564,6 @@ img {
 .footer-soc-list {
   display: flex;
   flex-direction: row;
-
   justify-content: center;
   align-items: center;
   padding: 0px;
@@ -573,14 +572,14 @@ img {
   justify-content: center;
 }
 .footer-soc-icon {
-  gap: 16px;
   fill: #f4f4fd;
 }
 
 .footersoc-item {
+  display: flex;
   width: 40px;
   height: 40px;
-
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   padding: 0px;
