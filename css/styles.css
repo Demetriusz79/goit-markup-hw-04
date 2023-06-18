@@ -577,7 +577,7 @@ img {
   fill: #f4f4fd;
 }
 
-.footersoc-item-icon {
+.footersoc-item {
   width: 40px;
   height: 40px;
 
@@ -602,20 +602,6 @@ img {
 }
 .footer-soc-link:focus {
   background-color: #31d0aa;
-}
-
-.soc-footer {
-  padding-top: 100px;
-  margin-right: 692px;
-  max-width: 208px;
-  height: 80px;
-
-  justify-content: center;
-  align-items: center;
-  padding: 0px;
-  gap: 16px;
-  align-items: center;
-  justify-content: center;
 }
 
 /*---------PORTFOLIO------*/
